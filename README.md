@@ -49,7 +49,7 @@
             <li><strong>Crescimento:</strong> Expectativa de crescimento a longo prazo.</li>
         </ul>
         <div class="grafico">
-            <img src="analise_fundamentalista.png" alt="Exemplo de análise fundamentalista de empresa">
+            <https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bussoladoinvestidor.com.br%2Ftudo-sobre-graficos-de-analise-tecnica%2F&psig=AOvVaw13gE8ktrFxDUrV-1X4sCDw&ust=1743091293225000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCJC1h9qNqIwDFQAAAAAdAAAAABAE>
         </div>
     </section>
 
