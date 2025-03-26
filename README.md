@@ -24,6 +24,7 @@
     <section id="introducao">
         <h1>Introdução</h1>
         <p>Bem-vindo ao guia de Análise Técnica vs. Análise Fundamentalista! Este conteúdo é destinado a investidores iniciantes e intermediários que querem entender melhor essas duas abordagens para investir no mercado de ações.</p>
+        <p>Se você deseja aprender mais sobre investimento, confira este <a href="https://www.exemplo.com" target="_blank">link educativo sobre investimentos</a>.</p>
     </section>
 
     <section id="analise-tecnica">
@@ -35,8 +36,7 @@
             <li><strong>Médias Móveis:</strong> Utilizadas para identificar a tendência geral do preço da ação.</li>
         </ul>
         <div class="grafico">
-            <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fadmiralmarkets.com%2Fpt%2Feducacao%2Faprender-trading%2Findicadores-trading%2Frsi-indicador&psig=AOvVaw2mLjqeQ-wTOyljFT6FUDYm&ust=1743091705872000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjZ6IyPqIwDFQAAAAAdAAAAABAJ" target="_blank">Clique aqui para aprender mais sobre o RSI no Trading</a>
-
+            <img src="grafico.png" alt="Exemplo de gráfico de análise técnica">
         </div>
     </section>
 
@@ -101,6 +101,8 @@
 
     <footer>
         <p>© 2025 Análise Técnica vs. Análise Fundamentalista. Todos os direitos reservados.</p>
+        <p>Para mais recursos educativos, visite <a href="https://www.exemplo.com" target="_blank">nosso portal de investimentos</a>.</p>
     </footer>
 </body>
 </html>
+
