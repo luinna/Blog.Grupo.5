@@ -49,7 +49,7 @@
             <li><strong>Crescimento:</strong> Expectativa de crescimento a longo prazo.</li>
         </ul>
         <div class="grafico">
-            
+            <img src="analise_fundamentalista.png" alt="Exemplo de análise fundamentalista de empresa">
         </div>
     </section>
 
