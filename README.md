@@ -36,7 +36,7 @@
             <li><strong>Médias Móveis:</strong> Utilizadas para identificar a tendência geral do preço da ação.</li>
         </ul>
         <div class="grafico">
-            <img src="grafico.png" alt="Exemplo de gráfico de análise técnica">
+            <img src="URL-direto-da-imagem" alt="Indicador RSI no Trading">
         </div>
     </section>
 
